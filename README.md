@@ -6,7 +6,7 @@
 - 🌱 Currently learning **React** and exploring **DevOps**
 - 👨‍💼 Former **Backend Intern at FPT Software**
 - 💬 Ask me about **ASP.NET**, **SQL**, **Docker**, **CI/CD**
-- ⚡ Passionate about building automation tools using JavaScript, Selenium, Android Debug Bridge
+- ⚡ Passionate about building automation tools using **JavaScript**, **Selenium**, **Android Debug Bridge**
 - 📫 Reach me at **tuanballboo@gmail.com**
 - 🌐 GitHub: [github.com/tuanballboo235](https://github.com/tuanballboo235)
 
